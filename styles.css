@@ -120,6 +120,7 @@ nav {
     max-width: 600px;
     margin: 0 auto;
     text-align: center;
+    padding: 20px; 
  
 }
 
@@ -164,6 +165,7 @@ padding-top: 8px;
 
 .about-me__img {
 width: 100%;
+padding: 75px 0; 
 }
 
 /* TECH STACK */
